@@ -44,3 +44,16 @@ Users should conduct their own research and independently verify all relevant in
 ## Information Updates
 
 This repository is intended to improve the accessibility and transparency of publicly available TLG Network information. Updates should be based on verifiable information and clearly distinguish confirmed facts from pending items.
+
+
+## Contract Information
+
+- **Network:** BNB Smart Chain Mainnet
+- **Chain ID:** 56
+- **Token Name:** TLG
+- **Token Standard:** BEP-20
+- **Total Supply:** 10,000,000,000 TLG
+- **Contract Address:** `0x319a4211C821c2A46874F1A4D227e49906BEA242`
+- **BscScan Contract Page:** https://bscscan.com/address/0x319a4211C821c2A46874F1A4D227e49906BEA242#code
+
+Always verify the contract address against the official project website and independently review the on-chain information before interacting with the token. The information published in this repository should distinguish independently verified facts from information that remains unconfirmed.
